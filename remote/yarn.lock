@@ -138,10 +138,10 @@
   resolved "https://registry.yarnpkg.com/@xterm/addon-unicode11/-/addon-unicode11-0.7.0-beta.14.tgz#37f672945b59c62676a76f9afa292973bff13763"
   integrity sha512-L1Maeye7mPYgllIOaD8b3J70B73SoC0deNrlhiMkry/8ue2Q48JzQnOGVWKIOZC+owB1aQRWZbQZbQaAiLKz4A==
 
-"@xterm/addon-webgl@0.17.0-beta.14":
-  version "0.17.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@xterm/addon-webgl/-/addon-webgl-0.17.0-beta.14.tgz#767057842d72258656be990b85718f01cf53ab55"
-  integrity sha512-FZoC0gk/H0hpQFrPEp2LM4qllj4a1MR/6sIg0TY6L83KS++8gxQLonTxDQoAmb9Ld5816s7ynLZJSTJUyDWRpg==
+"@xterm/addon-webgl@0.18.0":
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/@xterm/addon-webgl/-/addon-webgl-0.18.0.tgz#9e927cee10af971595fb2a72fd4c3bc2819f0096"
+  integrity sha512-xCnfMBTI+/HKPdRnSOHaJDRqEpq2Ugy8LEj9GiY4J3zJObo3joylIFaMvzBwbYRg8zLtkO0KQaStCeSfoaI2/w==
 
 "@xterm/headless@5.4.0-beta.14":
   version "5.4.0-beta.14"
