@@ -123,10 +123,10 @@
   resolved "https://registry.yarnpkg.com/@xterm/addon-image/-/addon-image-0.7.0-beta.12.tgz#b1ed300492429a1394c94385fb0c61ed36ad2041"
   integrity sha512-MseIv99qlQ0u113a4PFAfSv4vQi+16HC6S9oAcS/CSAHeSySYqPPLdZXAMqLZo0n/vIESmSFXlX4bm2k3YIhoQ==
 
-"@xterm/addon-search@0.14.0-beta.14":
-  version "0.14.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@xterm/addon-search/-/addon-search-0.14.0-beta.14.tgz#09da64dfea88315e1e07f95e5d8ec371fe986edb"
-  integrity sha512-SOIUqIakxLCT2jyn0GEidmd1KJRqGbuOITWXx8loBeiBb/Omo01nqhtHFU0HTdCRwFbOhMRMDTKKr2nQxaoPEQ==
+"@xterm/addon-search@0.15.0":
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/@xterm/addon-search/-/addon-search-0.15.0.tgz#5c772d5f14c26546c4bfbeb0c3d4b3333057411f"
+  integrity sha512-ZBZKLQ+EuKE83CqCmSSz5y1tx+aNOCUaA7dm6emgOX+8J9H1FWXZyrKfzjwzV+V14TV3xToz1goIeRhXBS5qjg==
 
 "@xterm/addon-serialize@0.12.0-beta.14":
   version "0.12.0-beta.14"
